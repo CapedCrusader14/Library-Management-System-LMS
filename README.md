@@ -1,103 +1,83 @@
-# Online-Library-Management-System-PHP
-This is a simple Online-Library-Management-System for School and colleges..
-Online library Management System divided in two modules–
+# Library-Management-System
 
-Student
-Admin
-Admin Features
+A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 
-Admin Dashboard
-Admin can add/update/ delete category
-Admin can add/update/ delete author
-Admin can add/update/ delete books
-Admin can issue a new book to student and also update the details when student return book
-Admin can search student by using their student ID
-Admin can also view student details
-Admin can change own password
-Students-
+**Problem Statement**-
 
-Student can register yourself and after registration they will get studentid
-After login student can view own dashboard.
- Student can update own profile.
-Student can view issued book and book return date-time.
-Student can also change own password.
-Student can also recover own password.
-How to run this Project
-1. Download and Unzip file on your local system copy library.
-2. Put library folder inside root directory
-Database Configuration
-Open phpmyadmin
-Create Database library
-Import database library.sql (available inside zip package)
+Despite the importance of libraries in academic and professional environments, many
+institutions face several operational challenges due to outdated or inefficient
+management systems. These challenges create barriers to smooth functioning and
+reduce the overall effectiveness of library services.
 
-For User
-Open Your browser put inside browser “http://localhost/library”
-
-Login Details for user :
-
-Username : test@gmail.com
-Password : Test@123
-
-
-For Admin Panel
-Open Your browser put inside browser “http://localhost/library/admin”
-
-Login Details for admin :
-Username : admin
-Password : admin@123
-
-Home Page: 
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/1%20Updated.png?raw=true)
+**Features of the System**
 
 Online library Management System divided in two modules–
-
-Student
-Admin
-
-
-
-Admin Features
-
-
-
-Admin Dashboard
-
-Admin can add/update/ delete category
-
-Admin can add/update/ delete author
-
-Admin can add/update/ delete books
-
-Admin can issue a new book to student and also update the details when student return book
-
-Admin can search student by using their student ID
-
-Admin can also view student details
-
-Admin can change own password
-
 
 Admin Dashboard:
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/3%20Updated.png?raw=true)
+• Admin login authentication
 
+• Add, update, and delete books
 
-Students-
+• Manage categories and authors
 
+• Issue books to users
 
+• View issued books and return status
 
-Student can register yourself and after registration they will get studentid
+• Manage users (students)
 
-After login student can view own dashboard.
-
-Student can update own profile.
-
-Student can view issued book and book return date-time.
-
-Student can also change own password.
-
-Student can also recover own password.
+• View reports and system records
 
 
 Student Dashboard:
-![alt text](https://github.com/kumarpandule2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
+
+• User registration and login
+
+• Search books by title, author, or category
+
+• View available books
+
+• Request/borrow books
+
+• View issued books and due dates
+
+• Track return status
+
+
+**Technologies 🛠**
+
+ReactJS[Hooks]
+
+NodeJs
+
+ExpressJs
+
+MongoDB
+
+
+**SCREENSHOTS:-**
+
+Admin login-
+<img width="1198" height="659" alt="image" src="https://github.com/user-attachments/assets/c2be4c0c-1787-45ee-a10e-384ef83b0b28" />
+User Register
+<img width="1191" height="607" alt="image" src="https://github.com/user-attachments/assets/d2332a21-7d05-4920-b8d6-bb10d78eec21" />
+User Login-
+<img width="1189" height="631" alt="image" src="https://github.com/user-attachments/assets/d550f513-0c76-439a-b853-ded548aff9f2" />
+
+Database Structure-
+<img width="1193" height="634" alt="image" src="https://github.com/user-attachments/assets/864e392e-7356-4e90-8eca-8d1d054d8ff0" />
+<img width="1193" height="632" alt="image" src="https://github.com/user-attachments/assets/afe65611-d62b-40c7-b594-cda7415d6bbc" />
+
+Interface-
+<img width="1188" height="632" alt="image" src="https://github.com/user-attachments/assets/e9a12b65-1fc6-4ece-bd95-a5fcd1890506" />
+<img width="1210" height="331" alt="image" src="https://github.com/user-attachments/assets/e354fb25-0b70-4d26-a7a1-1e219bd0d8ea" />
+<img width="1180" height="631" alt="image" src="https://github.com/user-attachments/assets/2da66018-5b55-4e8e-a7b3-d21af488121b" />
+<img width="1188" height="516" alt="image" src="https://github.com/user-attachments/assets/5fab7420-93a4-4561-ab02-982a468a7d53" />
+<img width="1213" height="454" alt="image" src="https://github.com/user-attachments/assets/faa87aa9-e292-471d-a0e0-1b99c91b0b65" />
+<img width="2940" height="1620" alt="image" src="https://github.com/user-attachments/assets/4c069c22-f59e-425a-bd4c-661c61a4ad88" />
+
+
+
+
+le2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
 
