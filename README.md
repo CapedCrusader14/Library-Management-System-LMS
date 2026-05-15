@@ -46,13 +46,19 @@ Student Dashboard:
 
 **Technologies 🛠**
 
-ReactJS[Hooks]
+ReactJS
 
 NodeJs
 
 ExpressJs
 
 MongoDB
+
+HTML
+
+CSS
+
+SQL
 
 
 **SCREENSHOTS:-**
@@ -78,6 +84,4 @@ Interface-
 
 
 
-
-le2000/Online-Library-Management-System-PHP/blob/master/Images/2.png?raw=true)
 
