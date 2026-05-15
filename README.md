@@ -1,4 +1,4 @@
-# Library-Management-System
+<img width="744" height="381" alt="image" src="https://github.com/user-attachments/assets/d873a0a1-5343-4d0f-8e36-94b53803667d" /># Library-Management-System
 
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 
@@ -67,21 +67,22 @@ Admin login-
 <img width="747" height="397" alt="image" src="https://github.com/user-attachments/assets/20844338-4cc1-4c93-9509-54482b6c221b" />
 
 User Register
-<img width="1191" height="607" alt="image" src="https://github.com/user-attachments/assets/d2332a21-7d05-4920-b8d6-bb10d78eec21" />
+<img width="744" height="381" alt="image" src="https://github.com/user-attachments/assets/bace4872-32f5-4bf2-b370-cb4a5479126b" />
+
 User Login-
-<img width="1189" height="631" alt="image" src="https://github.com/user-attachments/assets/d550f513-0c76-439a-b853-ded548aff9f2" />
+<img width="740" height="393" alt="image" src="https://github.com/user-attachments/assets/62924878-bac4-4698-baa9-bc83d2b6d95d" />
 
 Database Structure-
-<img width="1193" height="634" alt="image" src="https://github.com/user-attachments/assets/864e392e-7356-4e90-8eca-8d1d054d8ff0" />
-<img width="1193" height="632" alt="image" src="https://github.com/user-attachments/assets/afe65611-d62b-40c7-b594-cda7415d6bbc" />
+<img width="748" height="397" alt="image" src="https://github.com/user-attachments/assets/916242b5-a530-4543-90eb-add3b43a5f8a" />
+<img width="747" height="395" alt="image" src="https://github.com/user-attachments/assets/8ce1bff9-774c-4889-857c-f032e643a397" />
+
 
 Interface-
-<img width="1188" height="632" alt="image" src="https://github.com/user-attachments/assets/e9a12b65-1fc6-4ece-bd95-a5fcd1890506" />
-<img width="1210" height="331" alt="image" src="https://github.com/user-attachments/assets/e354fb25-0b70-4d26-a7a1-1e219bd0d8ea" />
-<img width="1180" height="631" alt="image" src="https://github.com/user-attachments/assets/2da66018-5b55-4e8e-a7b3-d21af488121b" />
-<img width="1188" height="516" alt="image" src="https://github.com/user-attachments/assets/5fab7420-93a4-4561-ab02-982a468a7d53" />
-<img width="1213" height="454" alt="image" src="https://github.com/user-attachments/assets/faa87aa9-e292-471d-a0e0-1b99c91b0b65" />
-<img width="2940" height="1620" alt="image" src="https://github.com/user-attachments/assets/4c069c22-f59e-425a-bd4c-661c61a4ad88" />
+<img width="748" height="399" alt="image" src="https://github.com/user-attachments/assets/28b6b7a5-06d9-41f3-ad38-401355d3bb43" />
+<img width="751" height="207" alt="image" src="https://github.com/user-attachments/assets/dca42d30-0685-4b66-b68f-bcf39d119181" />
+<img width="747" height="401" alt="image" src="https://github.com/user-attachments/assets/f402112c-3f4c-448f-9833-ad3926015674" />
+<img width="743" height="282" alt="image" src="https://github.com/user-attachments/assets/1920c09e-bbee-459f-80e7-820d9c4d9363" />
+<img width="749" height="224" alt="image" src="https://github.com/user-attachments/assets/1e01da14-84c2-444a-be8f-ec6703d63056" />
 
 
 
