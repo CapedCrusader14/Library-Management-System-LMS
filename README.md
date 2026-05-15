@@ -64,7 +64,8 @@ SQL
 **SCREENSHOTS:-**
 
 Admin login-
-<img width="1198" height="659" alt="image" src="https://github.com/user-attachments/assets/c2be4c0c-1787-45ee-a10e-384ef83b0b28" />
+<img width="747" height="397" alt="image" src="https://github.com/user-attachments/assets/20844338-4cc1-4c93-9509-54482b6c221b" />
+
 User Register
 <img width="1191" height="607" alt="image" src="https://github.com/user-attachments/assets/d2332a21-7d05-4920-b8d6-bb10d78eec21" />
 User Login-
